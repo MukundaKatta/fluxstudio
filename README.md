@@ -64,6 +64,3 @@ fluxstudio/
 └── package.json
 ```
 
-## License
-
-MIT
